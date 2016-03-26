@@ -1,6 +1,6 @@
 {
   "name": "bet-messenger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "BETool messenger",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/BETool/bet-messenger#readme",
   "dependencies": {
-    "bet-logger": "^0.0.2",
-    "bet-seed": "^0.0.1"
+    "bet-logger": "latest",
+    "bet-seed": "latest"
   }
 }
