@@ -1,0 +1,23 @@
+{
+  "name": "bet-messenger",
+  "version": "0.0.1",
+  "description": "BETool messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BETool/bet-messenger.git"
+  },
+  "author": "Mikhail Garbuzov <madmxg@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/BETool/bet-messenger/issues"
+  },
+  "homepage": "https://github.com/BETool/bet-messenger#readme",
+  "dependencies": {
+    "bet-logger": "0.0.1",
+    "bet-seed": "0.0.1"
+  }
+}
